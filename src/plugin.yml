@@ -1,0 +1,12 @@
+name: BigDig
+
+author: Shaohui Liu
+
+main: org.minecraft.lesson.BigDig
+
+commands:
+  bigdig:
+    description: Scoop away land around the player.
+    Usage: /<command> radius
+
+version: 1.0
